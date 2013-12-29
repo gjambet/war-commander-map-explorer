@@ -1,4 +1,10 @@
+# Intelli J #
+*.iml
+.idea
+
+
 *.class
+/target
 
 # Package Files #
 *.jar
